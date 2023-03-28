@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @altafsyah
-- 👀 I’m interested in Mobile App Development and UI/UX
-- 🌱 I’m currently learning Flutter to build app
+- 👀 I’m interested in Front End Web Development and UI/UX Design
+- 🌱 I’m currently learning ReactJS to build a beautiful app
 
 <!---
 altafsyah/altafsyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
